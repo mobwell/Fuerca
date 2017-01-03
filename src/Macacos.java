@@ -1,9 +1,10 @@
 
-public class Principal {
+public class Macacos {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola carino, te gusta de poias");
+
+		System.out.println("Babuino");
 	}
 
 }
